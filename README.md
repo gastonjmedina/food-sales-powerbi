@@ -2,7 +2,7 @@
 
 Repositorio orientado al desarrollo de un dashboard interactivo en Power BI para el análisis de un conjunto de datos de ventas.
 
-El proyecto comprende las etapas de limpieza, transformación, modelado y visualización de datos mediante Power Query y DAX, con el objetivo de responder a distintos requerimientos de negocio a través de indicadores clave (KPIs) y visualizaciones interactivas.
+El proyecto incluye las etapas de limpieza, transformación, modelado y visualización de datos mediante Power Query y DAX, con el objetivo de responder a distintos requerimientos de negocio a través de indicadores clave (KPIs) y visualizaciones interactivas.
 
 ---
 
@@ -57,9 +57,7 @@ El dashboard incluye distintas visualizaciones orientadas al análisis de la inf
 - Tendencia mensual de pedidos
 - Porcentaje de ventas por categoría
 - Porcentaje de ventas por tamaño
-- Ventas totales por categoría
 - Top 5 productos por ingresos, cantidad vendida y pedidos
-- Bottom 5 productos por ingresos, cantidad vendida y pedidos
 
 ---
 
@@ -93,6 +91,6 @@ La información puede explorarse dinámicamente mediante segmentadores por categ
 
 ![Interactive View](images/interactive_view.png)
 
-### Vista tabular
+### Tabla y Datos
 
 ![Table View](images/table_view.png)

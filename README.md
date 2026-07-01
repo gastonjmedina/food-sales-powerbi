@@ -63,7 +63,7 @@ El dashboard incluye distintas visualizaciones orientadas al análisis de la inf
 
 ## Requerimientos del proyecto
 
-El dashboard fue desarrollado para responder a una serie de requerimientos de negocio previamente definidos, contemplando tanto el cálculo de indicadores clave (KPIs) como la creación de visualizaciones para el análisis de las ventas.
+El dashboard fue desarrollado para responder a una serie de requerimientos de negocio previamente definidos:
 
 ### KPIs requeridos
 
